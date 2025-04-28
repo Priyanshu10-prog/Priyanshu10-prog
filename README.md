@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Priyanshu10-prog
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning dsa in C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in AI and ML and web dev
+- 🌱 I’m currently learning dsa in java
+- 📫 How to reach me- priyanshudwevedi73@gmail.com
 - ⚡ Fun fact: also a sports lover.
 
 <!---
